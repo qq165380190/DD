@@ -1,8 +1,6 @@
-电影，#genre#
+电影，＃类型＃
 西游降魔篇，https：//vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
-芈月传，http：//rihou.cc：555/huyad.php ？ID = 11352975
-与凤行，http：//rihou.cc：555/huyad.php ？ID = 26355866
-少儿不宜-6，#genre#
+少儿不宜-6，＃类型＃
 香蕉，http：//s.mrw.so/94e7w
 惊艳，http：//suo.im/8odlv
 潘多拉，http：//suo.im/6tusg
